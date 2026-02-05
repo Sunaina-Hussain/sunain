@@ -1,4 +1,4 @@
-# sunain
+# sunaina
 Hello world, this is my profile
 <h1 align="left">Hey 👋 What's up?</h1>
 
@@ -12,7 +12,7 @@ Hello world, this is my profile
 
 ###
 
-<p align="left"<br>📚Currently learning Python and DevOps to enhance my skills in automation, software development and infrastructure management skills<br>🎯To build a career as a DevOps engineer<br>🎲I'm passionate about blending technology and creativity to build cool projects</p>
+<p align="left"<br>📚Currently learning Python Fullstack with gen Ai to enhance my skills in automation, software development and infrastructure management skills<br>🎯I'm passionate about blending technology and creativity to build cool projects</p>
 
 ###
 
